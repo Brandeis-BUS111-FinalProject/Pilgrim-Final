@@ -116,13 +116,14 @@ hist(consumerDB$X9Profit, main = "Histogram of Profits in 1999",
 ```
 
 ### (3) Data Patterns Summary
-From the above table, we can see a positive relation between the income levels and uses of online banking and electronic billpay. The more income one cusomter earn, the more likely that customer will use online banking and electronic billpay. We can interprete this as customers may find a easier way to manage their money from online banking and electronic billpay. 
+From the above table, we can see a positive relation between the income levels and uses of online banking and electronic billpay. The more income one customer earns, the more likely that customer will use online banking and electronic billpay. We can interpret this as customers may find a easier way to manage their money from online banking and electronic billpay. 
 
-Age groups and the uses of online banking and electronic billpay, on the contrary, appears to be a nagetive relation. The younger one customer is, the more likely that customers will use online banking and electronic billpay. 
+Age groups and the uses of online banking and electronic billpay, on the contrary, appears to be a negative relation. The younger one customer is, the more likely that customers will use online banking and electronic billpay. 
 
-The similar relationships can be apply to the retention rate as well. The higher the income level and age group, the more likely customers will stay with the bank.
+The similar relationships can be applied to the retention rate as well. The higher the income level and age group, the more likely customers will stay with the bank.
 
-In conclusion, customers in income group 9 are more likely to use online banking and electronic billpays and to stay with the bank. Customers in age group 7 are more likely to use online banking and electronic billpays and to stay with the bank.
+In conclusion, customers in income group 9 are more likely to use online banking and electronic billpay and to stay with the bank. Customers in age group 7 are more likely to use online banking and electronic billpay and to stay with the bank.
+
 
 ```{r}
 # 1999 Income with online and billpay customer
